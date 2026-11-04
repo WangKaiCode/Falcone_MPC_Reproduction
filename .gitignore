@@ -1,3 +1,6 @@
+# MATLAB Project Cache
+resources/
+
 # MATLAB 自动保存 / 备份
 *.asv
 *.m~
