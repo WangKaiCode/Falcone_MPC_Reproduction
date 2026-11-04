@@ -1,0 +1,32 @@
+# MATLAB 自动保存 / 备份
+*.asv
+*.m~
+*.autosave
+*.slx.r*
+*.mdl.r*
+
+# MATLAB 编译 / 缓存
+*.mex*
+slprj/
+codegen/
+*.slxc
+
+# 结果输出（一般不入库，按需保留）
+results/*.mat
+results/*.fig
+results/*.png
+results/*.pdf
+
+# Simulink 临时
+*.slx.autosave
+*.slx.original
+*.slx.r*
+
+# 操作系统
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
